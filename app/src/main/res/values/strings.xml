@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">StudentIDAssignment2</string>
+    <string name="login_title">Student Login</string>
+    <string name="username_hint">Student ID</string>
+    <string name="password_hint">First name</string>
+    <string name="login_button">Login</string>
+    <string name="location_label">Class location</string>
+    <string-array name="location_array">
+        <item>footscray</item>
+        <item>sydney</item>
+        <item>br</item>
+    </string-array>
+    <string name="dashboard_title">Dashboard</string>
+    <string name="details_title">Details</string>
+    <string name="error_invalid_credentials">Login failed. Check your student ID and first name.</string>
+    <string name="error_network">Unable to reach the API. Please try again.</string>
+</resources>
