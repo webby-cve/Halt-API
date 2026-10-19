@@ -5,7 +5,6 @@ pluginManagement {
         gradlePluginPortal()
     }
 }
-
 dependencyResolutionManagement {
     repositoriesMode.set(RepositoriesMode.FAIL_ON_PROJECT_REPOS)
     repositories {
@@ -14,5 +13,5 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "StudentIDAssignment2"
+rootProject.name = "S8138683Assignment2"
 include(":app")

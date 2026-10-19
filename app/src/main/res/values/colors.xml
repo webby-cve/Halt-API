@@ -1,12 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="primary">#3F51B5</color>
-    <color name="primary_dark">#303F9F</color>
-    <color name="accent">#FF5722</color>
-    <color name="white">#FFFFFF</color>
-    <color name="black">#000000</color>
-    <color name="background">#F5F5F5</color>
-    <color name="surface">#FFFFFF</color>
-    <color name="text_primary">#212121</color>
-    <color name="text_secondary">#757575</color>
+    <!-- Brand palette -->
+    <color name="indigo_500">#FF6366F1</color>
+    <color name="indigo_700">#FF4338CA</color>
+    <color name="indigo_900">#FF312E81</color>
+    <color name="teal_400">#FF2DD4BF</color>
+
+    <!-- Neutrals -->
+    <color name="white">#FFFFFFFF</color>
+    <color name="black">#FF111827</color>
+    <color name="bg_light">#FFF1F5F9</color>
+    <color name="gray_600">#FF475569</color>
+    <color name="gray_400">#FF94A3B8</color>
+    <color name="error_red">#FFDC2626</color>
+
+    <!-- Avatar palette (entity cards) -->
+    <color name="avatar_indigo">#FF6366F1</color>
+    <color name="avatar_pink">#FFEC4899</color>
+    <color name="avatar_teal">#FF14B8A6</color>
+    <color name="avatar_amber">#FFF59E0B</color>
+    <color name="avatar_purple">#FF8B5CF6</color>
+    <color name="avatar_red">#FFEF4444</color>
 </resources>
